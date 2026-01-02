@@ -1,4 +1,4 @@
-# Hi 👋, I'm Farhan Khan
+# Hi 👋, I'm Mohd Farhan 
 
 🎯 Aspiring Software Developer | Data Science & AI Enthusiast  
 💻 Python | AI | Machine Learning | Data Visualization  
