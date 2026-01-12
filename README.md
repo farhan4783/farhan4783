@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <b><i>"Building pixels that process data."</i></b>
+ <b><i>"If you live each day as if its your last, one day you will most certainly be right."</i></b>
 </p>
 
 ---
@@ -44,16 +44,6 @@ I am a **Third-Year Computer Science Engineering Student** passionate about solv
 * **Customer Churn Analysis (Telecom)**: Built an ML model using Scikit-learn to predict churn and suggest retention strategies. [👉 View Project](#)
 * **Movie Recommendation System**: Implemented content-based and collaborative filtering algorithms. [👉 View Project](#)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohdfarhansde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdfarhansde&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Connect With Me
 
