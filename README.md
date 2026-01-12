@@ -44,6 +44,7 @@ I am a **Third-Year Computer Science Engineering Student** passionate about solv
 * **Customer Churn Analysis (Telecom)**: Built an ML model using Scikit-learn to predict churn and suggest retention strategies. [👉 View Project](#)
 * **Movie Recommendation System**: Implemented content-based and collaborative filtering algorithms. [👉 View Project](#)
 
+---
 
 ### 📫 Connect With Me
 
