@@ -15,10 +15,10 @@
 
 I am a **Third-Year Computer Science Engineering Student** passionate about solving real-world problems through code. I specialize in building cross-platform mobile applications and integrating them with intelligent backend systems.
 
-- 🔭 I’m currently working on **Flutter Apps & AI Models**
+- 🔭 I’m currently working on **Flutter Apps & AI Models and Data Analytics**
 - 🌱 I’m currently learning **Advanced DSA & System Design**
 - 💡 I’m interested in **Startups, Game Prototyping, and AI integration**
-- 👯 I’m looking to collaborate on **Open Source SDE or AI projects**
+- 👯 I’m currently collaborating on **Open Source and AI projects**
 
 ---
 
