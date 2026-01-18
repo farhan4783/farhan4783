@@ -51,7 +51,7 @@ I am a **Third-Year Computer Science Engineering Student** passionate about solv
 <p align="left">
 <a href="https://linkedin.com/in/mohdfarhansde" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohdfarhansde" height="30" /></a>
 <a href="mailto:mohdfarhan4002@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohdfarhan4002" height="30" /></a>
-<a href="[[www.github](https://github.com/farhan4783)](https://farhan4783.github.io/Portfolio/)" target="blank">
+<a href="https://farhan4783.github.io/Portfolio" target="blank">
   <img align="center"
        src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"
        height="30" />
