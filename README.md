@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter Apps & AI Models and Data Analytics<br>🌱 I’m currently learning Advanced DSA & System Design<br>💡 I’m interested in Startups, Game Prototyping, and AI integration<br>👯 I’m currently collaborating on Open Source and AI projects<br>
+🔭 I’m currently working on Flutter Apps & AI Models and Data Analytics<br>🌱 I’m currently learning Advanced DSA & Machine Learning<br>💡 I’m interested in Startups, Game Prototyping, and AI integration<br>👯 I’m currently collaborating on Open Source and AI projects<br>
 
 
 ## 🌐 Socials:
