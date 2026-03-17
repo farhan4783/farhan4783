@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohd Farhan</h1>
-<h3 align="center">🚀 Software Development Engineer | Flutter Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Software Development Engineer | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohdfarhansde&label=Profile%20Views&color=0e75b6&style=flat" alt="mohdfarhansde" />
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter Apps & AI Models and Data Analytics<br>🌱 I’m currently learning Advanced DSA & Machine Learning<br>💡 I’m interested in Startups, Machine Learning, and AI integration<br>👯 I’m currently collaborating on Open Source and AI projects<br>
+🔭 I’m currently working on Web Apps & AI Models <br>🌱 I’m currently learning Advanced DSA & Machine Learning<br>💡 I’m interested in Startups, Machine Learning Engineering, and AI integration<br>👯 I’m currently collaborating on Open Source and AI projects<br>
 
 
 ## 🌐 Socials:
