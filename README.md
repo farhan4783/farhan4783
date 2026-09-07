@@ -54,7 +54,7 @@
 │          VITAL DATA LOGS                   │
 │                                            │
 │  👤 Name        : Mohd Farhan              │
-│  🎓 Education   : B.Tech CSE (3rd Year)    │
+│  🎓 Education   : B.Tech CSE (4th Year)    │
 │  🧠 Core Role   : AI / ML Engineer         │
 │  🌎 Location    : New Delhi, India         │
 │  🚀 Status      : Architecting Tomorrow    │
