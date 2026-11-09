@@ -68,10 +68,10 @@
 │                                            │
 │          CONNECT TO NODES                  │
 │                                            │
-│  🔗 <a href="https://farhan4783.github.io/Portfolio">Digital Portfolio Portal</a>             │
-│  💼 <a href="https://linkedin.com/in/mohdfarhansde">Professional LinkedIn Node</a>           │
-│  📧 <a href="mailto:farhan4783@gmail.com">Secure Email Channel</a>                 │
-│  🛸 <a href="https://github.com/farhan4783">Current GitHub Vector</a>                │
+│  🔗 <a href="https://farhan4783.github.io/Portfolio">Digital Portfolio Portal</a>              │
+│  💼 <a href="https://linkedin.com/in/mohdfarhansde">Professional LinkedIn Node</a>            │
+│  📧 <a href="mailto:farhan4783@gmail.com">Secure Email Channel</a>                  │
+│  🛸 <a href="https://github.com/farhan4783">Current GitHub Vector</a>                 │
 │                                            │
 ╚════════════════════════════════════════════╝
 </pre>
@@ -171,36 +171,7 @@
 
 <br />
 
-<!-- DYNAMIC TERMINAL SIMULATION -->
-### 💻 LIVE TERMINAL ENVIRONMENT
 
-<table>
-<tr>
-<td>
-<pre align="left">
-farhan@github:~$ <font color="#5af78e">whoami</font>
-Mohd Farhan — AI Engineer & Software Craftsman.
-
-farhan@github:~$ <font color="#5af78e">cat core_philosophy.cfg</font>
-{
-  "focus": "Building high-throughput, intelligent applications",
-  "strengths": ["Complex Algorithmic Problem Solving", "System Architecture", "Scalable Caching"],
-  "hobbies": ["Competitive Programming (Hard LeetCode/GFG Matrices)", "Strategic Chess Mechanics"]
-}
-
-farhan@github:~$ <font color="#5af78e">sudo deploy future --force</font>
-[syslog] Optimizing neural weights...
-[syslog] Initializing isolated microservices...
-[syslog] Caching pipeline tokens via Redis...
-██████████████████████████████████████████ 100%
-
-Done. The digital framework is fully operational.
-</pre>
-</td>
-</tr>
-</table>
-
-<br />
 
 <!-- INTERACTIVE VISUAL DASHBOARD -->
 ### 📊 CENTRAL CONTROL DASHBOARD
@@ -213,12 +184,3 @@ Done. The digital framework is fully operational.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan4783&theme=tokyonight" alt="Farhan's Core Analytics" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan4783&theme=tokyonight" alt="Farhan's Language Distribution" width="49%" />
 </p>
-<!-- CINEMATIC EXIT SIGN-OFF -->
-<pre>
-██████╗ █╗   █╗ ██████╗
-██╔══██╗╚█╗ ██╔╝ ██╔═══╝
-██████╔╝ ╚███╔╝  █████╗  
-██╔══██╗  ██║    ██╔══╝  
-██████╔╝  ██║    ██████╗
-╚═════╝   ╚═╝    ╚═════╝
-</pre>
