@@ -213,40 +213,6 @@ Done. The digital framework is fully operational.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhan4783&theme=tokyonight" alt="Farhan's Core Analytics" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhan4783&theme=tokyonight" alt="Farhan's Language Distribution" width="49%" />
 </p>
-
-<br />
-
-<!-- THE NARRATIVE SCROLL STORY -->
-══════════════════════════════════════════════════════════════════════════
-<p>SCROLL DOWN TO INITIALIZE TERMINATION PROTOCOL</p>
-↓
-<br />↓
-<br />↓
-<p><i>You are navigating deep inside a custom GitHub cluster...</i></p>
-↓
-<br />↓
-<br />↓
-<p><i>Every repository here represents a calculated milestone...</i></p>
-↓
-<br />↓
-<br />↓
-<p><i>Some engineered systems scaled flawlessly into production frameworks.</i></p>
-↓
-<br />↓
-<br />↓
-<p><i>Some experimental scripts broke under pressure.</i></p>
-↓
-<br />↓
-<br />↓
-<p><i>Every single compilation advanced the neural model.</i></p>
-↓
-<br />↓
-<br />↓
-<b>You have successfully reached the perimeter boundary.</b>
-══════════════════════════════════════════════════════════════════════════
-
-<br />
-
 <!-- CINEMATIC EXIT SIGN-OFF -->
 <pre>
 ██████╗ █╗   █╗ ██████╗
